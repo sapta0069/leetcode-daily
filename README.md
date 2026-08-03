@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/sapta0069/leetcode-daily/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sapta0069/leetcode-daily/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/sapta0069/leetcode-daily/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sapta0069/leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sapta0069/leetcode-daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sapta0069/leetcode-daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/sapta0069/leetcode-daily/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sapta0069/leetcode-daily/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/sapta0069/leetcode-daily/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sapta0069/leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sapta0069/leetcode-daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sapta0069/leetcode-daily/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -88,19 +90,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/sapta0069/leetcode-daily/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sapta0069/leetcode-daily/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/sapta0069/leetcode-daily/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sapta0069/leetcode-daily/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sapta0069/leetcode-daily/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/sapta0069/leetcode-daily/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sapta0069/leetcode-daily/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sapta0069/leetcode-daily/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/sapta0069/leetcode-daily/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sapta0069/leetcode-daily/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sapta0069/leetcode-daily/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/sapta0069/leetcode-daily/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
