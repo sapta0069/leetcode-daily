@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sapta0069/leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0877-stone-game](https://github.com/sapta0069/leetcode-daily/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sapta0069/leetcode-daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sapta0069/leetcode-daily/tree/master/1406-stone-game-iii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sapta0069/leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sapta0069/leetcode-daily/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sapta0069/leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/sapta0069/leetcode-daily/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sapta0069/leetcode-daily/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sapta0069/leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sapta0069/leetcode-daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sapta0069/leetcode-daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
