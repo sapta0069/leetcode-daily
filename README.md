@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sapta0069/leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0877-stone-game](https://github.com/sapta0069/leetcode-daily/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sapta0069/leetcode-daily/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/sapta0069/leetcode-daily/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sapta0069/leetcode-daily/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/sapta0069/leetcode-daily/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sapta0069/leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sapta0069/leetcode-daily/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1386-cinema-seat-allocation](https://github.com/sapta0069/leetcode-daily/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sapta0069/leetcode-daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sapta0069/leetcode-daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sapta0069/leetcode-daily/tree/master/3312-sorted-gcd-pair-queries) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sapta0069/leetcode-daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/sapta0069/leetcode-daily/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/sapta0069/leetcode-daily/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sapta0069/leetcode-daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sapta0069/leetcode-daily/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/sapta0069/leetcode-daily/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sapta0069/leetcode-daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
 |  |
