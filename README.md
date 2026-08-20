@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/sapta0069/leetcode-daily/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sapta0069/leetcode-daily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sapta0069/leetcode-daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sapta0069/leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sapta0069/leetcode-daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sapta0069/leetcode-daily/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sapta0069/leetcode-daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sapta0069/leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sapta0069/leetcode-daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
